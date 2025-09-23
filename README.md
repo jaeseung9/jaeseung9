@@ -1,18 +1,10 @@
 # 👋 Hi there, I'm jaeseung9!
 
-🌱 **Aspiring Web Developer**  
-I'm currently learning web programming step by step, focusing on core technologies like **JavaScript, React, Node.js, and HTML/CSS**. Every day, I'm taking on new challenges to grow as a developer!
+🌱 웹 개발자를 꿈꾸고 있습니다
+저는 현재 웹 프로그래밍을 단계별로 학습하고 있으며, JavaScript, React, Node.js, HTML/CSS와 같은 핵심 기술에 집중하고 있습니다. 매일 새로운 도전을 통해 개발자로서 성장하고 있습니다.
 
 ---
 
-## 🚀 What I'm Learning
-
-- **JavaScript**: The foundation of interactive web applications
-- **React**: Building modern, component-based UIs
-- **Node.js**: Server-side JavaScript for scalable web apps
-- **HTML/CSS**: Crafting beautiful and responsive web pages
-
----
 
 
 ## 📚 Blog & More
