@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi there, I'm jaeseung9!
 
-<!--
-**jaeseung9/jaeseung9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Aspiring Web Developer**  
+I'm currently learning web programming step by step, focusing on core technologies like **JavaScript, React, Node.js, and HTML/CSS**. Every day, I'm taking on new challenges to grow as a developer!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Learning
+
+- **JavaScript**: The foundation of interactive web applications
+- **React**: Building modern, component-based UIs
+- **Node.js**: Server-side JavaScript for scalable web apps
+- **HTML/CSS**: Crafting beautiful and responsive web pages
+
+---
+
+
+## 📚 Blog & More
+
+- 📝 [SeungCoding 블로그](https://seungcoding.tistory.com/): 개발 공부와 성장 기록을 남기고 있어요!
+
+---
+
+## 💡 Motto
+
+> **도전!**
+
+새로운 기술, 프로젝트, 그리고 성장의 기회를 두려워하지 않고 도전합니다.
+
