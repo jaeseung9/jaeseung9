@@ -3,9 +3,6 @@
 > 💡 **C++로 복잡한 게임을 만들며 다진 프로그래밍 실력을 바탕으로,**  
 > **더 많은 사람들에게 가치를 전달하는 웹 서비스를 만들고 싶습니다.**
 
-[![Blog](https://img.shields.io/badge/Blog-SeungCoding-20C997?style=flat-square&logo=tistory&logoColor=white)](https://seungcoding.tistory.com/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaeseung9&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ---
 
 ## 🎯 About Me
