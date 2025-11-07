@@ -147,10 +147,4 @@
 
 <div align="center">
 
-### 📈 꾸준함이 만드는 성장
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=your_baekjoon_id)](https://solved.ac/your_baekjoon_id/)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
-
 </div>
