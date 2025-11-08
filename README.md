@@ -145,7 +145,7 @@
 > **"복잡한 문제도 작은 단계로 나누면 해결할 수 있다."**  
 > 게임 개발에서 배운 이 교훈을 웹 개발과 AI 서비스에도 적용하며 성장하고 있습니다.
 
- ![Programmers Rank](https://raw.githubusercontent.com/jaeseung9/github-programmers-rank/master/static/result.svg)
+<img src="https://raw.githubusercontent.com/jaeseung9/github-programmers-rank/master/lib/result.svg" alt="Programmers Rank" />
 
 <div align="center">
 
