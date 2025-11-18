@@ -49,7 +49,6 @@
 > **C++ / WinAPI 기반 2D 로그라이크 게임 (개인 프로젝트)**
 
 **주요 기능**
-- 🗺️ DFS 기반 **랜덤 맵 생성 알고리즘**
 - ⚔️ 적 AI (FSM), 충돌 처리 최적화 (쿼드트리)
 - 🎯 객체 풀링(Object Pooling) 기반 메모리 최적화
 - 🧩 GameManager / SceneManager 구조 설계
