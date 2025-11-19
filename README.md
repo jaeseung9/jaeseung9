@@ -32,24 +32,26 @@
 
 ---
 
-🎭 Real-time Face Emotion Analytics (Python + OpenCV)
 
-웹캠 실시간 얼굴 감정 인식 AI 대시보드 (개인 프로젝트)
+### 🎭 [Real-time Face Emotion Analytics (Python + OpenCV)](https://github.com/jaeseung9/face-emotion-analytics)
+> **웹캠 실시간 얼굴 감정 인식 AI 대시보드 (개인 프로젝트)**
 
-주요 구현 기능
+**주요 구현 기능**
+- 📹 OpenCV 기반 실시간 얼굴 검출 (Haar Cascade)
+- 🧠 ONNX 딥러닝 모델을 활용한 8가지 감정 분류
+- 📊 Streamlit 대시보드 — 감정 확률, 변화 추세, 누적 통계 시각화
+- ⚡ FPS 최적화 (ROI 단위 추론, 해상도 다운스케일링)
+- 📁 감정 로그 자동 기록 및 CSV 다운로드 기능
 
-📹 OpenCV 기반 실시간 얼굴 검출 (Haar Cascade)
-🧠 ONNX 딥러닝 모델을 활용한 8가지 감정 분류
-📊 Streamlit 대시보드 — 감정 확률, 변화 추세, 누적 통계 시각화
-⚡ FPS 최적화 (ROI 단위 추론, 해상도 다운스케일링)
-📁 감정 로그 자동 기록 및 CSV 다운로드 기능
+**기술 스택**
+`Python` `OpenCV` `ONNX Runtime` `Streamlit` `NumPy` `Pandas`
 
-기술 스택
-Python OpenCV ONNX Runtime Streamlit NumPy Pandas
-배운 점
+**배운 점**
+> 딥러닝 모델과 컴퓨터 비전을 결합한 실시간 애플리케이션 구축 경험.  
+> 데이터 전처리부터 추론, UI 시각화까지 전체 파이프라인 구현.
 
-딥러닝 모델과 컴퓨터 비전을 결합한 실시간 애플리케이션 구축 경험.
-데이터 전처리부터 추론, UI 시각화까지 전체 파이프라인 구현.
+
+---
 
 ### 🎬 [Sesac Movie Project (React)](https://github.com/jaeseung9/sesac-movie-project)
 > **6인 팀 프로젝트 / 영화 리뷰 관리 + AI 챗봇 기능**
@@ -95,6 +97,7 @@ Python OpenCV ONNX Runtime Streamlit NumPy Pandas
 
 ### 🧠 AI / Python
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white)
