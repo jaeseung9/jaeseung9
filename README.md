@@ -15,7 +15,7 @@
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Projects
 
 ### 🧠 [AI Tools Platform (Spring Boot)](https://github.com/jaeseung9/ai-tools-platform)
 > **Spring Boot 기반 통합 AI 웹 서비스 백엔드 (개인 프로젝트)**
