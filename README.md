@@ -1,36 +1,22 @@
-# 👋 안녕하세요! 게임에서 시작해 AI와 백엔드로 성장 중인 개발자 **서재승**입니다
+# 👋 안녕하세요!  
+실시간 영상 처리와 AI 시스템 구현에 관심 있는 개발자 **서재승**입니다
 
-> 🎯 **게임 개발로 다진 논리적 사고력과 문제 해결 능력으로,**  
-> **더 많은 사람들에게 가치를 전달하는 웹 서비스를 만드는 개발자입니다.**
+> 🎯 **Computer Vision과 AI 모델을 실제 서비스 구조에 연결하는 것**에 관심이 있으며,  
+> **Python 기반 영상 처리와 백엔드 시스템 설계 경험**을 쌓아가고 있습니다.
 
 ---
 
 ## 🎯 About Me
 
-- 🎮 **C++ / WinAPI** 기반 2D 게임 개발 경험을 바탕으로 **웹 개발**로 전향  
-- 💻 복잡한 로직과 시스템 설계를 직접 구현하며 **문제 해결 능력** 강화  
-- 🚀 현재 **Spring Boot 백엔드**와 **React 프론트엔드** 중심의 풀스택 학습 중  
-- 🌱 AI API(OpenAI, Gemini) 연동 및 Python(OpenCV, 딥러닝) 학습 진행  
+- 🧠 **Python / OpenCV** 기반 실시간 영상 처리 및 AI 추론 파이프라인 구현 경험
+- 📹 웹캠 입력 → 전처리 → ONNX 모델 추론 → 시각화까지 **Computer Vision 전체 흐름 구현**
+- ⚙️ C++ / WinAPI 게임 프로젝트를 통해 **복잡한 시스템 로직과 구조 설계 경험**
+- 🏗️ Spring Boot 기반 백엔드 개발 경험으로 **AI 기능을 서비스 구조로 연계**
+- 🌱 AI 모델 추론, 서버 환경(Linux), 컨테이너(Docker) 기반 실행 구조에 지속적인 관심
 
 ---
 
 ## 🔥 Projects
-
-### 🧠 [AI Tools Platform (Spring Boot)](https://github.com/jaeseung9/ai-tools-platform)
-> **Spring Boot 기반 통합 AI 웹 서비스 백엔드 (개인 프로젝트)**
-
-**주요 구현 기능**
-- 🔐 네이버·카카오 **OAuth2 로그인**
-- 💬 OpenAI GPT-3.5 / DALL-E 3 / 네이버 맞춤법 API 연동
-- ⚙️ 사용자별 API 사용 통계 대시보드 (Chart.js)
-- 🧱 RESTful API, JPA, GlobalExceptionHandler, Rate Limiting 구현
-- ✅ JUnit5 + MockMvc 기반 단위·통합 테스트 작성
-
-**기술 스택**
-`Java` `Spring Boot` `JPA` `Spring Security` `OAuth2` `MySQL`
-
----
-
 
 ### 🎭 [Real-time Face Emotion Analytics (Python + OpenCV)](https://github.com/jaeseung9/face-emotion-analytics)
 > **웹캠 실시간 얼굴 감정 인식 AI 대시보드 (개인 프로젝트)**
@@ -51,6 +37,22 @@
 
 
 ---
+
+### 🧠 [AI Tools Platform (Spring Boot)](https://github.com/jaeseung9/ai-tools-platform)
+> **Spring Boot 기반 통합 AI 웹 서비스 백엔드 (개인 프로젝트)**
+
+**주요 구현 기능**
+- 🔐 네이버·카카오 **OAuth2 로그인**
+- 💬 OpenAI GPT-3.5 / DALL-E 3 / 네이버 맞춤법 API 연동
+- ⚙️ 사용자별 API 사용 통계 대시보드 (Chart.js)
+- 🧱 RESTful API, JPA, GlobalExceptionHandler, Rate Limiting 구현
+- ✅ JUnit5 + MockMvc 기반 단위·통합 테스트 작성
+
+**기술 스택**
+`Java` `Spring Boot` `JPA` `Spring Security` `OAuth2` `MySQL`
+
+---
+
 
 ### 🎬 [Sesac Movie Project (React)](https://github.com/jaeseung9/sesac-movie-project)
 > **6인 팀 프로젝트 / 영화 리뷰 관리 + AI 챗봇 기능**
